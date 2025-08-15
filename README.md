@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexandru Marius Rădulescu</h1>
 <h3 align="center">A passionate full-stack developer from Romania</h3>
 
-- 👨🏻‍💻 Working on Masco Baits e-commerce website
+- 🚀 Working on a SaaS for aspiring software engineers to assist them in landing their dream job
 
-- 📌 Currently learning modern frameworks (NextJS, Tailwind CSS)
+- 📌 Currently learning modern frameworks (NextJS, Tailwind CSS) and strengthening my backend knowledge
 
 - 📫 How to reach me **alex11amr110506@gmail.com**
+
+- 📈 Open for any full-stack projects
 
 - ⚡ Fun fact **Former participant and medalist in many national programming olympiads (DSA, web development, information technology)**
 
