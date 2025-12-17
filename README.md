@@ -2,14 +2,16 @@
 <h3 align="center">One of the many CS student from Romania</h3>
 <p align="center">Here's what sets me apart</p>
 
-- ⚡ Fun fact **Former participant and medalist in many national programming olympiads (DSA, web development, information technology)**
+- ⚡ Former participant and medalist in many national programming olympiads (informatics, InfoEducatie (web development), information technology)
 
-- Worked on many full-stack projects
+- 💼 Worked on a few real projects for local businesses and startups and many other full-stack projects
 
-- 📌 Currently learning JAVA Spring Boot, strengthening my backend knowledge and the fundamentals of system design
+- 🧠 A strong passion for creating solutions and bringing ideas to life in creative ways
+
+- 📌 Currently learining Docker and K8s, strengthening my backend knowledge and the fundamentals of system design
 
 - 📫 How to reach me **alex11amr110506@gmail.com**
 
-- 📈 Open for any full-stack projects
+- 📈 Open for any full-stack projects and collaborations
 
 
