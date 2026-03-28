@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexandru Marius Rădulescu</h1>
+<h1 align="center">Hi, I'm Alexandru Marius Rădulescu!</h1>
 <h3 align="center">Computer Science Student & Full-Stack Developer from Romania</h3>
 
 <p align="center">
