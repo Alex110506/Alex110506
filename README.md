@@ -8,7 +8,6 @@
 ---
 
 ## 🚀 About Me
-dd
 - 🎓 **Computer Science Student** with hands-on experience in real-world projects
 - 💼 **Professional Experience**: Developed production applications for local businesses and startups, delivering full-stack solutions that solve real problems
 - 🏆 **Competitive Programming Background**: Multiple medalist in national programming competitions including:
