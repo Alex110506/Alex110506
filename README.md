@@ -122,10 +122,8 @@ I'm a software engineer and CS student based in Timişoara, Romania, focused on 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
-
-> ⚠️ Replace `YOUR-GITHUB-USERNAME` above with your actual GitHub username to activate the stats cards.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex110506&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex110506&layout=compact&theme=radical)
 
 ---
 
