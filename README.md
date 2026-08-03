@@ -122,8 +122,8 @@ I'm a software engineer and CS student based in Timişoara, Romania, focused on 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex110506&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex110506&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex110506&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex110506&layout=compact&theme=radical)
 
 ---
 
