@@ -120,13 +120,6 @@ I'm a software engineer and CS student based in Timişoara, Romania, focused on 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex110506&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex110506&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/alexandrurădulescu-12b115264) • [Portfolio](https://portofolio-eta-red.vercel.app/) • [Email](mailto:alex11amr110506@gmail.com)
