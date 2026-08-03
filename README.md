@@ -21,7 +21,6 @@ I'm a software engineer and CS student based in Timişoara, Romania, focused on 
 - 💼 Freelance full-stack developer for e-commerce and CMS platforms
 - 🌱 Currently deepening my skills in **AI engineering & MLOps**
 - 💬 Ask me about React, FastAPI/Node.js backends, RAG pipelines, or system design
-- ⚡ Fun fact: I like turning "it works on my machine" into "it works in production"
 
 ---
 
