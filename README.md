@@ -19,7 +19,7 @@ I'm a software engineer and CS student based in Timişoara, Romania, focused on 
 - 🏆 **1st Place — iTEC 2026 Hackathon** (Web Development Track)
 - 🥉 Multiple national informatics & digital innovation olympiad medals
 - 💼 Freelance full-stack developer for e-commerce and CMS platforms
-- 🌱 Currently deepening my skills in **AI engineering & MLOps**
+- 🌱 Currently deepening my skills in **AWS cloud computing & System Architecture**
 - 💬 Ask me about React, FastAPI/Node.js backends, RAG pipelines, or system design
 
 ---
